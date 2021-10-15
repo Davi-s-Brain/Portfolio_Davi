@@ -65,6 +65,11 @@ ul {
   align-items: center;
 }
 
+h2#sobre {
+  width: 70px;
+  margin: auto;
+}
+
 div#sobre > p {
   width: 700px;
   margin: 0px 10px 10px 0px;
@@ -89,6 +94,10 @@ div#contato > a > img:hover {
   background: #ffffff; 
   transition: 0.5s; 
   border-radius: 15px
+}
+
+div.space {
+padding-top: 20px;
 }
 
 footer {
