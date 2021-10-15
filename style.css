@@ -70,6 +70,15 @@ h2#sobre {
   margin: auto;
 }
 
+h2#conhecimentos {
+  width: 200px;
+  margin: auto;
+}
+
+h2#exp {
+  padding-top: 20px;
+}
+
 div#sobre > p {
   width: 700px;
   margin: 0px 10px 10px 0px;
@@ -128,4 +137,8 @@ nav > a:hover {
 img {
   width: 5rem;
   padding: 0px;
+}
+
+li {
+  text-align: justify;
 }
