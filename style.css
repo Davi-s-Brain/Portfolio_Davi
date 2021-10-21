@@ -9,7 +9,7 @@
 }
 
 header {
-  background-color: #0B359E;
+  background-color: #214fc2;
 }
 
 header > h1 {
@@ -34,7 +34,7 @@ nav > a {
 }
 
 main {
-  background-color: #2059EB;
+  background-color: #467bff;
 }
 
 article {
@@ -44,7 +44,7 @@ article {
 }
 
 h2, h3 {
-  padding: 10px 20px 10px 10px;
+  padding: 25px 20px 25px 10px;
   width: auto;
 }
 
@@ -110,7 +110,7 @@ padding-top: 20px;
 }
 
 footer {
-  background-color: #3D74FF;
+  background-color: #6490ff;
 }
 
 footer > p {
